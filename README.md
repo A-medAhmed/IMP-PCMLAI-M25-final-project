@@ -1,4 +1,4 @@
-# Identifing Trends In Defect Rates That Can Accurately Determine if A Defect Results From Misinterpretations of Requirements And Understanding Why This Occurs.
+# Defect Severity Classification & Anomaly Detection in Software Defect Reports
 
 ## NON-TECHNICAL EXPLANATION OF THE PROJECT
 Existing tools help identify defect rates, document requirements and user stories, and link test cases and results to these requirements. However, they lack the capability to identify trends that explain defect rates, particularly those caused by misinterpretation of requirements or user stories by developers or testers. The challenge is to identify trends in defect rates that can accurately determine if a defect results from such misinterpretations and understand why this occurs. 
@@ -40,7 +40,7 @@ Severity is encoded in the first column of the classification report below: "blo
 ![Top Words Impacting Defect Severity](images/Top_Words_Impacting_Defect_Severity.png)
 
 ## (CONTACT DETAILS)
-This is currently a Private repo.  Contact details (such as a twitter handle or an email address) will be added if/when it is made public. 
+ahmed at aagbabs dot plus dot com. 
 
 ## Data Reference
 
